@@ -1,0 +1,110 @@
+[
+  {
+    "pregunta": "Vuelo de noche, duermo en el día y nunca veras plumas en ala mía.",
+    "opciones": ["Buho", "Murcielago", "Perico", "Mariposa"],
+    "respuesta": "Murcielago",
+    "imagenes": ["assets/images/buho.png", "assets/images/murcielago.png", "assets/images/perico.png", "assets/images/mariposa.png"]
+  },
+  {
+    "pregunta": "Canto en la orilla, vivo en el agua, no soy pescado ni cigarra. ¿Quién soy?",
+    "opciones": ["Rana", "Pez", "Raya", "Garza"],
+    "respuesta": "Rana",
+    "imagenes": ["assets/images/rana.png", "assets/images/pez.png", "assets/images/raya.png", "assets/images/garza.png"]
+  },
+  {
+    "pregunta": "Soy un trocito de luz en la noche.De día me escondo en la hierba.Parezco una esmeralda que el viento se lleva.¿Quién soy?",
+    "opciones": ["Luciernaga", "Estrella", "Buho", "Grillo"],
+    "respuesta": "Luciernaga",
+    "imagenes": ["assets/images/luciernaga.png", "assets/images/estrella.png", "assets/images/buho.png", "assets/images/grillo.png"]
+  },
+  {
+    "pregunta": "Blanca por dentro, verde por fuera. Si quieres te lo digo, espera.",
+    "opciones": ["Pera", "Sandia", "Manzana", "Melon"],
+    "respuesta": "Pera",
+    "imagenes": ["assets/images/pera.png", "assets/images/sandia.png", "assets/images/manzana.png", "assets/images/melon.png"]
+  },
+  {
+    "pregunta": "No soy de plata, plata no soy. Ya te he dicho quién soy.",
+    "opciones": ["Manzana", "Pera", "Platano", "Fresa"],
+    "respuesta": "Platano",
+    "imagenes": ["assets/images/manzana.png", "assets/images/pera.png", "assets/images/platano.png", "assets/images/fresa.png"]
+  },
+  {
+    "pregunta": "Agua pasa por mi casa, cate por mi corazón. Espero que con lo que he dicho sepas la solución. ¿Quién soy?",
+    "opciones": ["Platano", "Aguacate", "Pera", "Manzana"],
+    "respuesta": "Aguacate",
+    "imagenes": ["assets/images/platano.png", "assets/images/aguacate.png", "assets/images/pera.png", "assets/images/manzana.png"]
+  },
+  {
+    "pregunta": "Es alargada y naranja, se la comen los conejos para así llegar a viejos.",
+    "opciones": ["Zanahoria", "Pepino", "Naranja", "Pera"],
+    "respuesta": "Zanahoria",
+    "imagenes": ["assets/images/zanahoria.png", "assets/images/pepino.png", "assets/images/naranja.png", "assets/images/pera.png"]
+  },
+  {
+    "pregunta": "Roja por dentro, verde por fuera. Si te la quieres comer, muchas pepitas tendrás que morder. ¿Qué fruta es?",
+    "opciones": ["Sandia", "Fresa", "Manzana", "Platano"],
+    "respuesta": "Sandia",
+    "imagenes": ["assets/images/sandia.png", "assets/images/fresa.png", "assets/images/manzana.png", "assets/images/platano.png"]
+  },
+  {
+    "pregunta": "¿Qué cosa es que cuanto más le quitas más grande es?",
+    "opciones": ["Agujero", "Lago", "Nube", "Libro"],
+    "respuesta": "Agujero",
+    "imagenes": ["assets/images/agujero.png", "assets/images/lago.png", "assets/images/nube.png", "assets/images/libro.png"]
+  },
+  {
+    "pregunta": "No muerde ni ladra, pero tiene dientes y la casa guarda. ¿Qué es?",
+    "opciones": ["Llave", "Perro", "Cerca", "Puerta"],
+    "respuesta": "Llave",
+    "imagenes": ["assets/images/llave.png", "assets/images/perro.png", "assets/images/cerca.png", "assets/images/puerta.png"]
+  },
+  {
+    "pregunta": "Es blanco como la sal. Fácil de abrir, pero no lo puedes cerrar.",
+    "opciones": ["Huevo", "Sal", "Pera", "Platano"],
+    "respuesta": "Huevo",
+    "imagenes": ["assets/images/huevo.png", "assets/images/sal.png", "assets/images/pera.png", "assets/images/platano.png"]
+  },
+  {
+    "pregunta": "Soy un insecto que vuela entre las flores, tengo dos alitas de muchos colores.",
+    "opciones": ["Mariposa", "Abeja", "Grillo", "Mantis"],
+    "respuesta": "Mariposa",
+    "imagenes": ["assets/images/mariposa.png", "assets/images/abeja.png", "assets/images/grillo.png", "assets/images/mantis.png"]
+  },
+  {
+    "pregunta": "¿Cuál animal tiene silla y no se puede sentar?",
+    "opciones": ["Caballo", "Perro", "Elefante", "Jirafa"],
+    "respuesta": "Caballo",
+    "imagenes": ["assets/images/caballo.png", "assets/images/perro.png", "assets/images/elefante.png", "assets/images/jirafa.png"]
+  },
+  {
+    "pregunta": "Dentro de una vaina estoy, ni espada ni sable soy.",
+    "opciones": ["Arveja", "Pera", "Manzana", "Fresa"],
+    "respuesta": "Arveja",
+    "imagenes": ["assets/images/arveja.png", "assets/images/pera.png", "assets/images/manzana.png", "assets/images/fresa.png"]
+  },
+  {
+    "pregunta": "En lo alto vive, en lo alto mora, en lo alto teje la tejedora.",
+    "opciones": ["Araña", "Perico", "Buho", "Mariposa"],
+    "respuesta": "Araña",
+    "imagenes": ["assets/images/arana.png", "assets/images/perico.png", "assets/images/buho.png", "assets/images/mariposa.png"]
+  },
+  {
+    "pregunta": "Lleva pijamas de rayas a diario y nunca las guarda en el armario. ¿Quién es?",
+    "opciones": ["Cebra", "Caballo", "Buho", "Perico"],
+    "respuesta": "Cebra",
+    "imagenes": ["assets/images/cebra.png", "assets/images/caballo.png", "assets/images/buho.png", "assets/images/perico.png"]
+  },
+  {
+    "pregunta": "Tengo una larga melena, soy fuerte y muy veloz. Abro la boca muy grande y doy miedo con mi voz. ¿Quién soy?",
+    "opciones": ["Leon", "Tigre", "Puma", "Caballo"],
+    "respuesta": "Leon",
+    "imagenes": ["assets/images/leon.png", "assets/images/tigre.png", "assets/images/puma.png", "assets/images/caballo.png"]
+  },
+  {
+    "pregunta": "¡Pi!, cantan los pájaros, miento y digo la verdad; por muy listo que seas, creo que no acertarás. ¿Quién soy?",
+    "opciones": ["Pimiento", "Pera", "Sandia", "Aguacate"],
+    "respuesta": "Pimiento",
+    "imagenes": ["assets/images/pimiento.png", "assets/images/pera.png", "assets/images/sandia.png", "assets/images/aguacate.png"]
+  }
+]
